@@ -1,0 +1,15 @@
+# dependencies & build (also covered per-package)
+node_modules/
+dist/
+coverage/
+
+# env & secrets
+.env
+.env.local
+*.local
+
+# logs & OS/editor
+*.log
+.DS_Store
+.idea/
+.vscode/
