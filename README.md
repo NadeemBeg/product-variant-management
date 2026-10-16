@@ -57,5 +57,3 @@ Open http://localhost:5173. For the seller portal, "sign in" as a demo seller (a
 - **Validated everywhere** — Zod at the boundary, a consistent error envelope, meaningful status codes.
 - **Documented** — per-package READMEs, an OpenAPI spec (`backend/docs/openapi.yaml`), and NOTES.
 
-See **[NOTES.md](./NOTES.md)** for the reasoning and trade-offs, and **[EVALUATION.md](./EVALUATION.md)**
-for a rubric-by-rubric map to the code.
